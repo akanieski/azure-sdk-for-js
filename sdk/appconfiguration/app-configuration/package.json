@@ -19,7 +19,7 @@
   "license": "MIT",
   "main": "./dist/index.js",
   "module": "./dist-esm/src/index.js",
-  "types": "./types/src/index.d.ts",
+  "types": "./types/app-configuration.d.ts",
   "devDependencies": {
     "@microsoft/api-extractor": "^7.1.5",
     "@types/dotenv": "^6.1.0",
